@@ -1,0 +1,95 @@
+Milk,Dairy
+Cheese,Dairy
+Asparagus,Vegetables
+Broccoli,Vegetables
+Carrots,Vegetables
+Cauliflower,Vegetables
+Celery,Vegetables
+Corn,Vegetables
+Cucumbers,Vegetables
+Lettuce,Vegetables
+Mushrooms,Vegetables
+Onions,Vegetables
+Peppers,Vegetables
+Potatoes,Vegetables
+Spinach,Vegetables
+Squash,Vegetables
+Zucchini,Vegetables
+Tomatoes,Vegetables
+Apples,Fruits
+Avocados,Fruits
+Bananas,Fruits
+Berries,Fruits
+Cherries,Fruits
+Grapefruit,Fruits
+Grapes,Fruits
+Kiwis,Fruits
+Lemons,Fruits
+Limes,Fruits
+Melon,Fruits
+Oranges,Fruits
+Peaches,Fruits
+Nectarines,Fruits
+Pears,Fruits
+BBQ sauce,Condiments
+Gravy,Condiments
+Honey,Condiments
+Hot sauce,Condiments
+Jam,Condiments
+Ketchup,Condiments
+Mustard,Condiments
+Mayonnaise,Condiments
+Pasta sauce,Condiments
+Relish,Condiments
+Salad dressing,Condiments
+Salsa,Condiments
+Soy sauce,Condiments
+Steak sauce,Condiments
+Syrup,Condiments
+Worcestershire sauce,Condiments
+Beer,Beverages
+Club soda / Tonic,Beverages
+Champagne,Beverages
+Gin,Beverages
+Juice,Beverages
+Mixers,Beverages
+Red wine / White wine,Beverages
+Rum,Beverages
+Sake',Beverages
+Soda pop,Beverages
+Sports drink,Beverages
+Whiskey,Beverages
+Vodka,Beverages
+Antiperspirant / Deodorant,Personal care
+Bath soap / Hand soap,Personal care
+Condoms / Other b.c.,Personal care
+Cosmetics,Personal care
+Cotton swabs / Balls,Personal care
+Facial cleanser,Personal care
+Facial tissue,Personal care
+Feminine products,Personal care
+Floss,Personal care
+Hair gel / Spray,Personal care
+Lip balm,Personal care
+Moisturizing lotion,Personal care
+Mouthwash,Personal care
+Razors / Shaving cream,Personal care
+Shampoo / Conditioner,Personal care
+Sunblock,Personal care
+Toilet paper,Personal care
+Toothpaste,Personal care
+Vitamins / Supplements,Personal care
+Basil,Spices
+Black pepper,Spices
+Cilantro,Spices
+Cinnamon,Spices
+Garlic,Spices
+Ginger,Spices
+Mint,Spices
+Oregano,Spices
+Paprika,Spices
+Parsley,Spices
+Red pepper,Spices
+Salt,Spices
+Spice mix,Spices
+Vanilla extract,Spices
